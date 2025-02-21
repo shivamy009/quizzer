@@ -43,5 +43,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://quizzer-faly.onrender.com"
+  "proxy": "http://localhost:5000"
 }
